@@ -1,0 +1,6 @@
+interface:
+  display_name: "TikTok para storyboard"
+  short_description: "Mapeie âncoras, cenas, contexto e falas de vídeos"
+  default_prompt: "Use $tiktok-storyboard para analisar este vídeo e entregar o storyboard de âncoras prováveis, o contexto e a transcrição verificada: "
+policy:
+  allow_implicit_invocation: true

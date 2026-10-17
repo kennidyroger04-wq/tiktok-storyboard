@@ -1,0 +1,6 @@
+/work/
+/outputs/
+.agents/skills/tiktok-storyboard/.runtime/
+.agents/skills/tiktok-storyboard/.models/
+__pycache__/
+*.py[cod]
